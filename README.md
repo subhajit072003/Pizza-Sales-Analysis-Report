@@ -45,7 +45,7 @@ Deliver a clear, interactive overview of sales performance
 
 Identify best-selling and underperforming pizzas
 
-Analyze customer demand across ** days, months, and seasons
+Analyze customer demand across days, months, and seasons
 
 Support data-driven decisions related to pricing, inventory, and promotions
 
@@ -143,7 +143,7 @@ The dashboard enables fast, data-driven decision-making for sales and operations
 3. Open the Power BI dashboard (`.pbix` file) to interact with the visuals.  
 4. Use slicers to analyze trends by pizza category and date range.
 
-5. ##  Dashboard Preview
+ ##  Dashboard Preview
 
 ### 🔹 Overview:
 ![Dashboard Overview](https://github.com/subhajit072003/Pizza-Sales-Analysis-Report/blob/main/pizza%20sales%20dashboard%201.png?raw=true)
