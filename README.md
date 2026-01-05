@@ -163,7 +163,7 @@ The dashboard enables fast, data-driven decision-making for sales and operations
 5. ## 📸 Dashboard Preview
 
 ### 🔹 Overview Dashboard
-![Dashboard Overview](pizza sales dashboard 1.png)
+![Dashboard Overview](https://github.com/subhajit072003/Pizza-Sales-Analysis-Report/blob/main/pizza%20sales%20dashboard%201.png?raw=true)
 
 ### 🔹 Trends & Performance Dashboard
 ![Dashboard Trends](Screenshots/dashboard_trends.png)
