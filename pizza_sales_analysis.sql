@@ -150,7 +150,7 @@ LIMIT 5;
 
 
 
--- 14. BOTTOM 5 SELLERS BY REVENUE
+-- 12. BOTTOM 5 SELLERS BY REVENUE
 SELECT 
     pizza_name,
     SUM(total_price) AS revenue
@@ -160,7 +160,7 @@ ORDER BY revenue ASC
 LIMIT 5;
 
 
--- 15. BOTTOM 5 SELLERS BY TOTAL QUANTITY
+-- 13. BOTTOM 5 SELLERS BY TOTAL QUANTITY
 SELECT 
     pizza_name,
     SUM(quantity) AS total_quantity
@@ -170,7 +170,7 @@ ORDER BY total_quantity ASC
 LIMIT 5;
 
 
--- 16. BOTTOM 5 SELLERS BY TOTAL ORDERS
+-- 14. BOTTOM 5 SELLERS BY TOTAL ORDERS
 SELECT 
     pizza_name,
     COUNT(DISTINCT order_id) AS total_orders
@@ -178,4 +178,5 @@ FROM pizza_sales
 GROUP BY pizza_name
 ORDER BY total_orders ASC
 LIMIT 5;
+
 
