@@ -23,7 +23,7 @@ The dashboard was built using the following tools and technologies:
 
 📁 File Formats – .csv (dataset), .sql (queries), .pbix (dashboard), .png (previews)
 
-# 💼 Business Problem
+#  Business Problem
 
 In food retail businesses, decision-makers often lack a single consolidated view to answer critical questions such as:
 
@@ -50,7 +50,7 @@ Analyze customer demand across ** days, months, and seasons
 Support data-driven decisions related to pricing, inventory, and promotions
 
 # 📈 Walkthrough of Key Visuals
-🔹 Key Performance Indicators (Top Section)
+ Key Performance Indicators (Top Section)
 
 Total Revenue: 817.86K
 
@@ -64,7 +64,7 @@ Average Pizzas per Order: 2.32
 
 These KPIs provide an instant snapshot of overall business health.
 
-# 🔹 Best & Worst Sellers Analysis
+#  Best & Worst Sellers Analysis
 
 Best Sellers
 
@@ -78,7 +78,7 @@ The Brie Carre Pizza records the lowest revenue, quantity, and orders
 
 This analysis helps businesses focus on high-impact products and reevaluate low performers.
 
-# 🔹 Time-Based Sales Trends
+#  Time-Based Sales Trends
 
 Daily Trend: Orders peak on Friday and Saturday evenings
 
@@ -86,7 +86,7 @@ Monthly Trend: Highest demand observed in July and January
 
 These insights are valuable for staffing, inventory planning, and promotions.
 
-# 🔹 Sales Distribution by Size & Category
+#  Sales Distribution by Size & Category
 
 Large-size pizzas contribute the maximum share of sales
 
@@ -94,7 +94,7 @@ Classic category dominates both revenue and order volume
 
 This information supports menu optimization and pricing strategy.
 
-# 🔹 Category-Wise Sales Breakdown
+#  Category-Wise Sales Breakdown
 
 Total pizzas sold by category:
 
@@ -122,24 +122,7 @@ Apply filters for specific months and quarters
 
 All analytical SQL queries are included in the repository for transparency and reproducibility 
 
-pizza sales my work
 
-.
-
-# 📁 Repository Structure
-# 📦 pizza-sales-analysis-dashboard
-├── Dataset
-│   └── pizza_sales.csv
-├── Excel
-│   └── data_preparation.xlsx
-├── SQL Queries
-│   └── pizza_sales_analysis.sql
-├── Power BI Dashboard
-│   └── Pizza_Sales_Report.pbix
-├── Screenshots
-│   ├── dashboard_overview.png
-│   └── dashboard_trends.png
-└── README.md
 
 # 🚀 Business Impact & Insights
 
@@ -153,14 +136,14 @@ Underperforming items can be reviewed for cost optimization or removal
 
 The dashboard enables fast, data-driven decision-making for sales and operations teams.
 
-## 🧪 How to Use This Project
+##  How to Use This Project
 
 1. Review the dataset and Excel file to understand the data structure and preparation steps.  
 2. Explore the SQL queries to understand KPI calculations and analytical logic.  
 3. Open the Power BI dashboard (`.pbix` file) to interact with the visuals.  
 4. Use slicers to analyze trends by pizza category and date range.
 
-5. ## 📸 Dashboard Preview
+5. ##  Dashboard Preview
 
 ### 🔹 Overview:
 ![Dashboard Overview](https://github.com/subhajit072003/Pizza-Sales-Analysis-Report/blob/main/pizza%20sales%20dashboard%201.png?raw=true)
